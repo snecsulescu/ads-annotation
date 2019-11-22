@@ -8,10 +8,12 @@
 
 1. git clone git@github.com:snecsulescu/ads-annotation.git
 2. cd ads-annotation
-3. pip install -r requirements.txt
-4. cp /path/to/ads-50k.json .
-5. wget http://nlp.stanford.edu/data/glove.6B.zip
-6. set up the `glove_file` variable in  Ads Annotation.ipynb
+3. create virtual environment 
+4. activate virtual environment 
+5. pip install -r requirements.txt 
+6. cp /path/to/ads-50k.json .
+7. wget http://nlp.stanford.edu/data/glove.6B.zip
+8. set up the `glove_file` variable in  Ads Annotation.ipynb
 
 ## Project structure
 
